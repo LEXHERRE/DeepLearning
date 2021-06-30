@@ -1,2 +1,2 @@
 # DeepLearning
-Deep Learning course in Aalto university
+Deep Learning course in Aalto University
